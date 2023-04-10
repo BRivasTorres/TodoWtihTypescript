@@ -1,5 +1,5 @@
 # TodoWtihTypescript
-CREDITS: https://youtu.be/61v23Ce5SXA
+CREDITS: https://youtu.be/61v23Ce5SXA </br>
 This was a project in which I learned different things related to TS such as; types, typed classes, interfaces, etc.
 Site: https://todo-with-ts-btr.netlify.app/
 
